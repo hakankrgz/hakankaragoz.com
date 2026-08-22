@@ -1,0 +1,4 @@
+Contact: mailto:hakan@hakankaragoz.com
+Expires: 2027-08-22T00:00:00.000Z
+Preferred-Languages: tr, en
+Canonical: https://hakankaragoz.com/.well-known/security.txt
