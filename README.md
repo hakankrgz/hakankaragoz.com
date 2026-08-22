@@ -1,7 +1,4 @@
 # hakankaragoz.com
-
-Hakan Karagöz için sıfırdan tasarlanan statik portföy sitesi.
-
 ## Yerel çalışma
 
 ```bash
